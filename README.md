@@ -42,14 +42,15 @@ No meu tempo livre gosto vídeo games, fazer projetos eletrônicos, por exemplo 
 		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
 	</a>
   	<a href="https://www.instagram.com/daniel.rovetta" target="_blank">
-			<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+		<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 	</a>
   	<a href = "mailto:daniel.rovettapassos@gmail.com">
-			<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-		</a>
+		<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+	</a>
   	<a href="https://www.linkedin.com/in/daniel-rovetta-8b3aa314b" target="_blank">
-				<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-		</a> 
-	  	<a href="https://open.spotify.com/user/9pgij190jkkwgmf9exlcg6ovj?si=2a4b50b3a52e4fe3" target="_blank">
-				<img src="https://img.shields.io/badge/-Spotify-%23333?style=for-the-badge&logo=spotify&logoColor=green" target="_blank">
+		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+	</a> 
+	<a href="https://open.spotify.com/user/9pgij190jkkwgmf9exlcg6ovj?si=2a4b50b3a52e4fe3" target="_blank">
+		<img src="https://img.shields.io/badge/-Spotify-%23333?style=for-the-badge&logo=spotify&logoColor=green" target="_blank">
+	</a> 
 </p>
