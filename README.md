@@ -8,6 +8,9 @@ No meu tempo livre gosto vídeo games, fazer projetos eletrônicos, por exemplo 
         <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Logo do Python"/>
     </a>
     <a href="">
+        <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/angularjs/angularjs-original.svg" alt="Logo do Angular"/>
+    </a>
+    <a href="">
         <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Logo do React"/>
     </a>
     <a href="">
